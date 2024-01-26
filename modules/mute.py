@@ -13,7 +13,7 @@
 ๏ **Perintah:** `unmute` <balas pesan/berikan username>
 ◉ **Keterangan:** Aktifkan pengguna dalam obrolan saat ini.
 
-๏ **Perintah:** `dmute` <balas pesan/berikan username>
+๏ **Perintah:** `Fuck` <balas pesan/berikan username>
 ◉ **Keterangan:** Bisukan pengguna dalam obrolan saat ini dengan menghapus pesan.
 
 ๏ **Perintah:** `undmute` <balas pesan/berikan username>
